@@ -1,0 +1,64 @@
+[
+
+    {
+        "id": "1-Mouse",
+        "titulo": "G Pro X superlight",
+        "imagen": "https://www.fullh4rd.com.ar/img/productos/14/mouse-logitech-g-pro-x-superlight-white-910005941-0.jpg",
+        "precio": 130000,
+        "stock": 501,
+        "descripcion": "Elimina todos los obstáculos para ganar con nuestro mouse inalámbrico PRO X más ligero y rápido. El nuevo favorito de los mejores profesionales ",
+        "categoria": "mouse"
+    },
+    
+    {
+        "id": "2-Mouse",
+        "titulo": "HyperX Pulsefire Dart",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_894232-MLU72572863664_112023-O.webp",
+        "precio": 110000,
+        "stock": 435,
+        "descripcion": "Adaptado a tus movimientos. El mouse de juego te ofrecerá la posibilidad de marcar la diferencia y sacar ventajas en tus partidas. Su conectividad y sensor suave ayudará a que te desplaces rápido por la pantalla.",
+        "categoria": "mouse"
+    
+    },
+    
+    {
+        "id": "3-Mouse",
+        "titulo": "Glorious Model D glossy white",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_968412-MLA43710426409_102020-O.webp",
+        "precio": 70000,
+        "stock": 298,
+        "descripcion": "Apto para fácil traslado. Navegá rápidamente por documentos y páginas web gracias su diseño ultra delgado, ergonómico, liviano y conveniente para llevar a donde quieras o viajar.",
+        "categoria": "mouse"
+    },
+    
+    {
+        "id": "4-Mouse",
+        "titulo": "Asus Rog Keris Wireless Eva Edition",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_775455-MLA69522214933_052023-O.webp",
+        "precio": 220000,
+        "stock": 821,
+        "descripcion": "Ratón inalámbrico óptico, la nueva tecnologia que alcanza velocidades nunca antes vistas, con su nuevo tiempo de respuesta de 0.3ms, siendo uno de los mouse mas rapidos del mercado actualmente",
+        "categoria": "mouse"
+    },
+    
+    {
+        "id": "5-Mouse",
+        "titulo": "Redragon Storm Pro",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_931174-MLU72749475422_112023-O.webp",
+        "precio": 65000,
+        "stock": 1032,
+        "descripcion": "Querias algo rapido, ligero, resistente, y economico?, te presentamos el nuevo Redragon Storm pro, con su nueva carcasa speed, nos permitira ligeros movimientos a una gran velocidad",
+        "categoria": "mouse"
+    },
+    
+    {
+        "id": "6-Mouse",
+        "titulo": "VSG Aurora",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_826983-MLU72650680871_112023-O.webp",
+        "precio": 72000,
+        "stock": 779,
+        "descripcion": "buscas algo gamer economico?,VSG aurora no te va a desepcionar, con materiales de calidad y sensor optico, te serviran a la perfeccion para tus juegos shooters favoritos",
+        "categoria": "mouse"
+    }
+    
+    ]
