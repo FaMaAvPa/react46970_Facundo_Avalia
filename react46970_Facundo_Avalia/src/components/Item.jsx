@@ -1,14 +1,16 @@
+import { Link } from "react-router-dom"
 import ItemCount from "./ItemCount"
+import ItemDetailContainer from "./ItemDetailContainer"
 
 const Item = ({item}) => {
     return(
-    <div className="col-md-3 my-5 text-center">
-        <div className="card border-0">
-            <img src={item.imagen} className="card-img-top" alt={item.titulo}  height={300}/>
+    <div className="col-md-3 my-5 text-center" height={500}>
+        <div className="card border-2 border-info h-100 bg-dark-subtle">
+            <img src={item.imagen} className="card-img-top" height={300} alt={item.titulo}/>
             <div className="card-body">
                 <h5 className="card-title">{item.titulo}</h5>
                 <p className="card-text">${item.precio}</p>
-                <ItemCount stock={item.stock}/>
+                <button type="button" className="btn btn-outline-warnig px-5 w-100 bg-dark"><Link to={"item/:id"} className="text-decoration-none link-light">Info del Producto</Link></button>
             </div>
         </div>
     </div>

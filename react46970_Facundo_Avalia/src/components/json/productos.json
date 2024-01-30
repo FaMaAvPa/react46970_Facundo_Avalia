@@ -59,6 +59,239 @@
         "stock": 779,
         "descripcion": "buscas algo gamer economico?,VSG aurora no te va a desepcionar, con materiales de calidad y sensor optico, te serviran a la perfeccion para tus juegos shooters favoritos",
         "categoria": "mouse"
-    }
+    },
     
+    {
+        "id": "1-Monitor",
+        "titulo": "Monitor Asus Tuf Gaming",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_671973-MLU70027241949_062023-O.webp",
+        "precio": 340000,
+        "stock": 278,
+        "descripcion": "Apasionada de la tecnología e impulsada por la innovación, Asus se esfuerza por crear una vida mejor para todas las personas. Siempre en búsqueda de nuevas ideas, la empresa aspira a ofrecer la más alta calidad en cada uno de sus productos. Comprobalo por vos mismo con este monitor Asus que te brindará una experiencia auténtica e increíble.",
+        "categoria": "monitor"
+    },
+    
+    {
+        "id": "2-Monitor",
+        "titulo": "ViewSonic VX2468",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_899335-MLA52334264829_112022-O.webp",
+        "precio": 210000,
+        "stock": 546,
+        "descripcion": "umérgete en una experiencia de juego inigualable con el Monitor gamer curvo ViewSonic VX2468-PC-MHD de 24 pulgadas. Su diseño curvo y elegante en color negro te permite disfrutar de una visión panorámica y envolvente, mientras que su resolución Full HD de 1920x1080 píxeles garantiza imágenes nítidas y detalladas",
+        "categoria": "monitor"
+    },
+    
+    {
+        "id": "3-Monitor",
+        "titulo": "Gigabyte G27FC",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_609395-MLA48690831774_122021-O.webp",
+        "precio": 110000,
+        "stock": 589,
+        "descripcion": "Disfrutá de todas las cualidades que el monitor Gigabyte G27FC tiene para ofrecerte. Percibí las imágenes de una manera completamente diferente y complementá cualquier espacio ya sea en tu casa u oficina.",
+        "categoria": "monitor"
+    },
+    
+    {
+        "id": "4-Monitor",
+        "titulo": "Odyssey G5 Curvo",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_712790-MLU72825479961_112023-O.webp",
+        "precio": 450000,
+        "stock": 556,
+        "descripcion": "tu mundo de juegos, ahora asombrosamente realista. Con 1,7 veces la densidad de píxeles de Full HD, la resolución WQHD ofrece imágenes increíblemente detalladas y nítidas. Experimenta una vista más completa con más espacio para disfrutar de toda la acción.",
+        "categoria": "monitor"
+    },
+    
+    {
+        "id": "5-Monitor",
+        "titulo": "LG UltraGear 27GP750",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_799279-MLU72646476375_112023-O.webp",
+        "precio": 430540,
+        "stock": 332,
+        "descripcion": "LG busca entender a los usuarios para ofrecerles óptimas soluciones y nuevas experiencias a través de la evolución tecnológica. Disfrutá de la perfecta combinación de diseño, calidad y rendimiento que la empresa te ofrece en este monitor.",
+        "categoria": "monitor"
+    },
+    
+    {
+        "id": "6-Monitor",
+        "titulo": "Gamer Aoc C27g2ze",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_746752-MLU72613205121_112023-O.webp",
+        "precio": 511000,
+        "stock": 382,
+        "descripcion": "Disfrutá de todas las cualidades que el monitor AOC 27G2ZE tiene para ofrecerte. Percibí las imágenes de una manera completamente diferente y complementá cualquier espacio ya sea en tu casa u oficina.",
+        "categoria": "monitor"
+    },
+
+
+    {
+        "id": "1-Teclado",
+        "titulo": "HyperX Alloy Origins Core",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_678606-MLU72644137535_112023-O.webp",
+        "precio": 114999,
+        "stock": 1450,
+        "descripcion": "Este teclado HyperX de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel.",
+        "categoria": "teclado"
+    },
+    
+    {
+        "id": "2-Teclado",
+        "titulo": "Redragon Kumara K552 ",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_636746-MLA52350707355_112022-O.webp",
+        "precio": 60000,
+        "stock": 2301,
+        "descripcion": "La gran calidad del Redragon Kumara K552, y su precio económico lo vuelven un atractivo ideal para que te diviertas frente a la pantalla. Su ergonomía, su base antidelizante y su rápido tiempo de respuesta permite que tus juegos favoritos se sientan más cerca que nunca, al alcance de tus manos.",
+        "categoria": "teclado"
+    },
+    
+    {
+        "id": "3-Teclado",
+        "titulo": "Logitech Pro X",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_797654-MLU69825292047_062023-O.webp",
+        "precio": 240000,
+        "stock": 897,
+        "descripcion": "Este teclado Logitech de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel.",
+        "categoria": "teclado"
+    },
+    
+    {
+        "id": "4-Teclado",
+        "titulo": "Razer Huntsman Mini",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_908009-MLA43712584979_102020-O.webp",
+        "precio": 254000,
+        "stock": 789,
+        "descripcion": "Hablar de Razer dentro del mundo gamer es palabra mayor. Esta compañía ofrece productos de muy alta calidad a sus usuarios. Su línea de teclados es reconocida por haber recibido distintos galardones y premios internacionales por su alto desempeño.",
+        "categoria": "teclado"
+    },
+    
+    {
+        "id": "5-Teclado",
+        "titulo": "Asus M601 Rog Falchion",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_695796-MLU73875223228_012024-O.webp",
+        "precio": 282000,
+        "stock": 562,
+        "descripcion": "Este teclado Asus de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel.",
+        "categoria": "teclado"
+    },
+    
+    {
+        "id": "6-Teclado",
+        "titulo": "Apex Pro Tkl ",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_677271-MLA43704202937_102020-O.webp",
+        "precio": 458000,
+        "stock": 439,
+        "descripcion": "El Apex Pro TKL redefine la experiencia en teclados mecánicos con la posibilidad de personalizar la sensibilidad de cada tecla. Ideal para adaptarse a distintas actividades, desde juegos hasta tareas cotidianas, permite desde pulsaciones extremadamente ligeras hasta otras más firmes y controladas.",
+        "categoria": "teclado"
+    },
+
+    {
+        "id": "1-Procesador",
+        "titulo": "Intel Pentium Gold G7400",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_946417-MLA52279931619_112022-O.webp",
+        "precio": 179900,
+        "stock": 2340,
+        "descripcion": "La gama de procesadores Pentium de Intel proporciona CPU de excelente rendimiento, confiabilidad y asequibilidad para compradores orientados al valor.",
+        "categoria": "procesador"
+    },
+    
+    {
+        "id": "2-Procesador",
+        "titulo": "Intel Core i5-12400F",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_895684-MLU72594431783_102023-O.webp",
+        "precio": 295300,
+        "stock": 1440,
+        "descripcion": "Productividad y entretenimiento, todo disponible en tu computadora de escritorio. La superioridad tecnológica de INTEL es un beneficio para todo tipo de profesionales. Asegura el mejor rendimiento de las aplicaciones, de la transferencia de datos y la conexión con otros elementos tecnológicos.",
+        "categoria": "procesador"
+    },
+    
+    
+    {
+        "id": "3-Procesador",
+        "titulo": "Intel Core i9-12900",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_996392-MLA53042447399_122022-O.webp",
+        "precio": 932120,
+        "stock": 672,
+        "descripcion": "Núcleos: el corazón del procesador.. En este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.",
+        "categoria": "procesador"
+    },
+    
+    {
+        "id": "4-Procesador",
+        "titulo": "Ryzen 3 3200g",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_765679-MLA40219168655_122019-O.webp",
+        "precio": 349220,
+        "stock": 1872,
+        "descripcion": "Mejora tu experiencia de juego con el Procesador gamer AMD Ryzen 3 3200G, diseñado para brindarte un rendimiento óptimo en tus partidas. Con sus 4 núcleos y una frecuencia máxima de 4 GHz, disfrutarás de una velocidad y fluidez excepcionales en tus juegos favoritos. Además, su arquitectura x86-64 te garantiza una compatibilidad amplia con diversos sistemas y aplicaciones.",
+        "categoria": "procesador"
+    },
+    
+    {
+        "id": "6-Procesador",
+        "titulo": "Ryzen 9 7950x",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_695992-MLA52735195222_122022-O.webp",
+        "precio": 913870,
+        "stock": 301,
+        "descripcion": "Bienvenido a la nueva era del rendimiento. La serie AMD Ryzen 7000 saca a relucir la velocidad descomunal de “Zen 4” y su potencia pura para que los jugadores y creadores puedan procesar cualquier juego o flujo de trabajo que se cruce en su camino. Los procesadores de PC más avanzados del mundo para jugadores y creadores amplían el liderazgo de rendimiento de AMD para potenciar tu PC.",
+        "categoria": "procesador"
+    },
+
+    {
+        "id": "1-Grafica",
+        "titulo": "GTX 1660 super",
+        "imagen": "https://www.bhphotovideo.com/images/images2000x2000/gigabyte_gv_n166sgaming_oc_6gd_geforce_gtx_1660_super_1543377.jpg",
+        "precio": 560900,
+        "stock": 340,
+        "descripcion": "La Serie 16 GeForce GTX SUPER™ cuenta con arquitectura NVIDIA Turing™ y memoria GDDR6. Actualiza tu PC con una tarjeta GeForce GTX SUPER™ para alcanzar el rendimiento indispensable en juegos competitivos y así conseguir más FPS cuando más los necesites.",
+        "categoria": "grafica"
+    },
+    
+    {
+        "id": "2-Grafica",
+        "titulo": "RTX 2060",
+        "imagen": "https://www.bhphotovideo.com/images/images1500x1500/gigabyte_gv_n2060oc_6gd_rev2_0_geforce_rtx_2060_oc_1543385.jpg",
+        "precio": 555300,
+        "stock": 610,
+        "descripcion": "Las tarjetas gráficas GeForce RTX son las más rápidas del mundo, para brindarles a los gamers el rendimiento necesario para disfrutar de los mejores y más recientes juegos con un nivel de detalle impresionante.",
+        "categoria": "grafica"
+    },
+    
+    
+    {
+        "id": "3-Grafica",
+        "titulo": "RTX 3080",
+     "imagen": "https://www.bhphotovideo.com/images/images2000x2000/gigabyte_gv_n3080gaming_oc_10gd_geforce_rtx_3080_gaming_1593333.jpg",
+        "precio": 698020,
+        "stock": 672,
+        "descripcion": "Las tarjetas gráficas GeForce RTX 3080 Ti y RTX 3080 ofrecen el rendimiento perfecto que buscan los jugadores, con la tecnología de Ampere, la arquitectura RTX de 2. generación de NVIDIA.",
+        "categoria": "grafica"
+    },
+    
+    {
+        "id": "4-Grafica",
+        "titulo": "RTX 4060ti",
+        "imagen": "https://www.bhphotovideo.com/images/images1500x1500/gigabyte_gv_n406teagle_oc_8gd_geforce_rtx_4060_ti_1768077.jpg",
+        "precio": 679000,
+        "stock": 1072,
+        "descripcion": "Para los jugadores que juegan con tarjetas gráficas de la generación anterior, la tarjeta gráfica con arquitectura NVIDIA Ada Lovelace ofrece una mejora sustancial que te permite potenciar tu rendimiento en los mejores juegos y aplicaciones creativas.",
+        "categoria": "grafica"
+    },
+    
+    {
+        "id": "5-Grafica",
+        "titulo": "RTX 4090ti",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_730293-MLA54228742153_032023-O.webp",
+        "precio": 457990,
+        "stock": 101,
+        "descripcion": "La NVIDIA GeForce RTX 4090 es la GPU GeForce definitiva. Trae un enorme salto en rendimiento, eficiencia y gráficos impulsados ​​por IA.",
+        "categoria": "grafica"
+    },
+    
+    
+    {
+        "id": "6-Grafica",
+        "titulo": "RX 7900 xtx",
+        "imagen": "https://www.bohemiapc.cz/imgcache/b/c/pi54-2072500013-32882-s_-1_-1_141396.jpg",
+        "precio": 297690,
+        "stock": 71,
+        "descripcion": "El sistema de refrigeración WINDFORCE está equipado con tres ventiladores de 100 mm con aspas únicas que giran alternativamente, 9 heatpipes de cobre compuesto, una gran cámara de evaporación que toca directamente la GPU, ventiladores activos 3D y refrigeración de pantalla, que en conjunto garantizan una disipación de calor altamente eficiente.",
+        "categoria": "grafica"
+    }
     ]

@@ -1,5 +1,5 @@
 import CartWidget from "./CartWidget"
-import { Link } from "react-router-dom"
+import { Link, NavLink } from "react-router-dom"
 
 
 const Navbar = () =>{
@@ -12,28 +12,24 @@ const Navbar = () =>{
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                     <li className="nav-item fs-4 mx-3">
-                        <Link to="productos" className="text-decoration-none text-dark">Productos</Link>
+                        <NavLink to="/productos" className="text-decoration-none text-dark">Productos</NavLink>
                     </li>        
                     <li className="nav-item fs-4 mx-3">
-                        Mouses
+                        <NavLink to="/categoria/mouse" className="text-decoration-none text-dark">Mouses</NavLink>
                     </li>
                     <li className="nav-item fs-4 mx-3">
-                        Teclados
+                        <NavLink to="/categoria/teclado" className="text-decoration-none text-dark">Teclados</NavLink>
                     </li>
                     <li className="nav-item fs-4 mx-3">
-                        Procesadores
+                        <NavLink to="/categoria/procesador" className="text-decoration-none text-dark">Procesadores</NavLink>
                     </li>
                     <li className="nav-item fs-4 mx-3">
-                        Monitores
+                        <NavLink to="/categoria/monitor" className="text-decoration-none text-dark">Monitores</NavLink>
                     </li>
                     <li className="nav-item fs-4 mx-3">
-                        Graficas
+                        <NavLink to="/categoria/grafica" className="text-decoration-none text-dark">Graficas</NavLink>
                     </li>
                     </ul>
-                    <form className="d-flex">
-                    <input className="form-control me-2" type="search" placeholder="Buscar un producto..." aria-label="Search" />
-                    <button className="btn btn-outline-success text-dark" type="submit">Buscar</button>
-                    </form>
                 </div>
                 </div>
                 <div className="column col-md-2">
