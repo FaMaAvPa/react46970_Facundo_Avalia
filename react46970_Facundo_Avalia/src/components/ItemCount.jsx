@@ -34,7 +34,7 @@ const ItemCount = ({stock}) => {
                 <div className="col-md-12">
                     <div className="btn-group" aria-label="Basic outlined example">
                         <button type="button" className="btn btn-outline-primary" onClick={decrementar}>-</button>
-                        <button type="button" className="btn btn-primary px-5">{counter}</button>
+                        <button type="button" className="btn btn-primary px-5 w-100">{counter}</button>
                         <button type="button" className="btn btn-outline-primary" onClick={incrementar}>+</button>
                     </div>
                 </div>

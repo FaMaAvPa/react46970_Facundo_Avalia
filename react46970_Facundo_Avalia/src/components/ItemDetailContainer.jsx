@@ -8,16 +8,14 @@ const ItemDetailContainer = ({}) =>{
     const {id} = useParams();
 
     useEffect(() => {
-        useEffect(() => {
             const promesa = new Promise(resolve =>{
                     let producto = productos.find(item => item.id == id)
                     resolve(producto);
             });                                                         
             promesa.then(data => {
                 setItem(data)
-            })
-        })
-    }, [])
+            })                  
+    }, [id])
 
     return(
         <>
