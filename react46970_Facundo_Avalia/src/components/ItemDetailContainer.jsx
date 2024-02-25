@@ -1,25 +1,27 @@
 import { useEffect, useState } from "react"
-import productos from "./json/productos.json"
 import ItemDetail from "./ItemDetail"
 import { useParams } from "react-router-dom"
+import { getDoc, getFirestore, doc } from "firebase/firestore"
+import Loading from "./loading"
 
 const ItemDetailContainer = ({}) =>{
     const [item, setItem] = useState([])
     const {id} = useParams();
+    const [loading, setLoading] = useState(true)
 
     useEffect(() => {
-            const promesa = new Promise(resolve =>{
-                    let producto = productos.find(item => item.id == id)
-                    resolve(producto);
-            });                                                         
-            promesa.then(data => {
-                setItem(data)
-            })                  
-    }, [id])
+        const db = getFirestore();
+        const producto = doc(db, "productos", id)
+
+        getDoc(producto).then(resultado => {
+            setLoading(false)
+            setItem({id:resultado.id, ...resultado.data()})
+        });
+    }, [id])  
 
     return(
         <>
-        <ItemDetail item={item}/>
+        {loading ? <Loading /> : <ItemDetail item={item}/>}
         </>
     )
 }

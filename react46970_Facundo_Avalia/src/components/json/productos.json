@@ -1,7 +1,7 @@
 [
 
     {
-        "id": 1,
+        "idx": 1,
         "titulo": "G Pro X superlight",
         "imagen": "https://www.fullh4rd.com.ar/img/productos/14/mouse-logitech-g-pro-x-superlight-white-910005941-0.jpg",
         "precio": 130000,
@@ -11,7 +11,7 @@
     },
     
     {
-        "id": 2,
+        "idx": 2,
         "titulo": "HyperX Pulsefire Dart",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_894232-MLU72572863664_112023-O.webp",
         "precio": 110000,
@@ -22,7 +22,7 @@
     },
     
     {
-        "id": 3,
+        "idx": 3,
         "titulo": "Glorious Model D glossy white",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_968412-MLA43710426409_102020-O.webp",
         "precio": 70000,
@@ -32,7 +32,7 @@
     },
     
     {
-        "id": 4,
+        "idx": 4,
         "titulo": "Asus Rog Keris Wireless Eva Edition",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_775455-MLA69522214933_052023-O.webp",
         "precio": 220000,
@@ -42,7 +42,7 @@
     },
     
     {
-        "id": 5,
+        "idx": 5,
         "titulo": "Redragon Storm Pro",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_931174-MLU72749475422_112023-O.webp",
         "precio": 65000,
@@ -52,7 +52,7 @@
     },
     
     {
-        "id": 6,
+        "idx": 6,
         "titulo": "VSG Aurora",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_826983-MLU72650680871_112023-O.webp",
         "precio": 72000,
@@ -62,7 +62,7 @@
     },
     
     {
-        "id": 7,
+        "idx": 7,
         "titulo": "Monitor Asus Tuf Gaming",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_671973-MLU70027241949_062023-O.webp",
         "precio": 340000,
@@ -72,7 +72,7 @@
     },
     
     {
-        "id": 8,
+        "idx": 8,
         "titulo": "ViewSonic VX2468",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_899335-MLA52334264829_112022-O.webp",
         "precio": 210000,
@@ -82,7 +82,7 @@
     },
     
     {
-        "id": 9,
+        "idx": 9,
         "titulo": "Gigabyte G27FC",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_609395-MLA48690831774_122021-O.webp",
         "precio": 110000,
@@ -92,7 +92,7 @@
     },
     
     {
-        "id": 10,
+        "idx": 10,
         "titulo": "Odyssey G5 Curvo",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_712790-MLU72825479961_112023-O.webp",
         "precio": 450000,
@@ -102,7 +102,7 @@
     },
     
     {
-        "id": 11,
+        "idx": 11,
         "titulo": "LG UltraGear 27GP750",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_799279-MLU72646476375_112023-O.webp",
         "precio": 430540,
@@ -112,7 +112,7 @@
     },
     
     {
-        "id": 12,
+        "idx": 12,
         "titulo": "Gamer Aoc C27g2ze",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_746752-MLU72613205121_112023-O.webp",
         "precio": 511000,
@@ -123,7 +123,7 @@
 
 
     {
-        "id": 13,
+        "idx": 13,
         "titulo": "HyperX Alloy Origins Core",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_678606-MLU72644137535_112023-O.webp",
         "precio": 114999,
@@ -133,7 +133,7 @@
     },
     
     {
-        "id": 14,
+        "idx": 14,
         "titulo": "Redragon Kumara K552 ",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_636746-MLA52350707355_112022-O.webp",
         "precio": 60000,
@@ -143,7 +143,7 @@
     },
     
     {
-        "id": 15,
+        "idx": 15,
         "titulo": "Logitech Pro X",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_797654-MLU69825292047_062023-O.webp",
         "precio": 240000,
@@ -153,7 +153,7 @@
     },
     
     {
-        "id": 16,
+        "idx": 16,
         "titulo": "Razer Huntsman Mini",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_908009-MLA43712584979_102020-O.webp",
         "precio": 254000,
@@ -163,7 +163,7 @@
     },
     
     {
-        "id": 17,
+        "idx": 17,
         "titulo": "Asus M601 Rog Falchion",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_695796-MLU73875223228_012024-O.webp",
         "precio": 282000,
@@ -173,7 +173,7 @@
     },
     
     {
-        "id": 18,
+        "idx": 18,
         "titulo": "Apex Pro Tkl ",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_677271-MLA43704202937_102020-O.webp",
         "precio": 458000,
@@ -183,7 +183,7 @@
     },
 
     {
-        "id": 19,
+        "idx": 19,
         "titulo": "Intel Pentium Gold G7400",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_946417-MLA52279931619_112022-O.webp",
         "precio": 179900,
@@ -193,7 +193,7 @@
     },
     
     {
-        "id": 20,
+        "idx": 20,
         "titulo": "Intel Core i5-12400F",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_895684-MLU72594431783_102023-O.webp",
         "precio": 295300,
@@ -204,7 +204,7 @@
     
     
     {
-        "id": 21,
+        "idx": 21,
         "titulo": "Intel Core i9-12900",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_996392-MLA53042447399_122022-O.webp",
         "precio": 932120,
@@ -214,7 +214,7 @@
     },
     
     {
-        "id": 22,
+        "idx": 22,
         "titulo": "Ryzen 3 3200g",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_765679-MLA40219168655_122019-O.webp",
         "precio": 349220,
@@ -224,7 +224,7 @@
     },
     
     {
-        "id": 23,
+        "idx": 23,
         "titulo": "Ryzen 9 7950x",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_695992-MLA52735195222_122022-O.webp",
         "precio": 913870,
@@ -234,7 +234,7 @@
     },
 
     {
-        "id": 24,
+        "idx": 24,
         "titulo": "GTX 1660 super",
         "imagen": "https://www.bhphotovideo.com/images/images2000x2000/gigabyte_gv_n166sgaming_oc_6gd_geforce_gtx_1660_super_1543377.jpg",
         "precio": 560900,
@@ -244,7 +244,7 @@
     },
     
     {
-        "id": 25,
+        "idx": 25,
         "titulo": "RTX 2060",
         "imagen": "https://www.bhphotovideo.com/images/images1500x1500/gigabyte_gv_n2060oc_6gd_rev2_0_geforce_rtx_2060_oc_1543385.jpg",
         "precio": 555300,
@@ -255,7 +255,7 @@
     
     
     {
-        "id": 26,
+        "idx": 26,
         "titulo": "RTX 3080",
      "imagen": "https://www.bhphotovideo.com/images/images2000x2000/gigabyte_gv_n3080gaming_oc_10gd_geforce_rtx_3080_gaming_1593333.jpg",
         "precio": 698020,
@@ -265,7 +265,7 @@
     },
     
     {
-        "id": 27,
+        "idx": 27,
         "titulo": "RTX 4060ti",
         "imagen": "https://www.bhphotovideo.com/images/images1500x1500/gigabyte_gv_n406teagle_oc_8gd_geforce_rtx_4060_ti_1768077.jpg",
         "precio": 679000,
@@ -275,7 +275,7 @@
     },
     
     {
-        "id": 28,
+        "idx": 28,
         "titulo": "RTX 4090ti",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_730293-MLA54228742153_032023-O.webp",
         "precio": 457990,
@@ -286,7 +286,7 @@
     
     
     {
-        "id": 29,
+        "idx": 29,
         "titulo": "RX 7900 xtx",
         "imagen": "https://www.bohemiapc.cz/imgcache/b/c/pi54-2072500013-32882-s_-1_-1_141396.jpg",
         "precio": 297690,
